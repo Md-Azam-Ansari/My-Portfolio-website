@@ -1,43 +1,43 @@
 # Portfolio-website
 The "Portfolio Website" is a dynamic and responsive web application designed to showcase my skills, accomplishments, and contact information. This website serves as a digital resume, providing visitors with insights into my background, skills, and projects.
 
---------------------------------------------------------
+------------------------------------------------------CODE EXPLANATION-------------------------------------------------------------
 
 This code is an HTML and CSS-based webpage for a personal portfolio. Below is a summary of its key components and functionality:
 
 HTML Code (index.html):
 
-The HTML structure is defined with a <head> section containing metadata and external links to CSS and JavaScript files.
+1. The HTML structure is defined with a <head> section containing metadata and external links to CSS and JavaScript files.
 
-The page is divided into several sections: "Portfolio," "About," "Projects," and "Contact."
+2. The page is divided into several sections: "Portfolio," "About," "Projects," and "Contact."
 
-The navigation menu includes links to different sections of the page using anchor tags (<a>).
+3. The navigation menu includes links to different sections of the page using anchor tags (<a>).
 
-The "About" section provides information about the portfolio owner, their education, and skills. It uses tabs to toggle between "Skills" and "Education" content.
+4. The "About" section provides information about the portfolio owner, their education, and skills. It uses tabs to toggle between "Skills" and "Education" content.
 
-The "Projects" section displays a list of projects with brief descriptions and links to learn more about each project.
+5. The "Projects" section displays a list of projects with brief descriptions and links to learn more about each project.
 
-The "Contact" section provides contact information and a form for users to submit messages.
+6. The "Contact" section provides contact information and a form for users to submit messages.
 
-JavaScript functions are included to handle tab switching for the "About" section, toggle the mobile menu, and submit form data to Google Sheets.
+7. JavaScript functions are included to handle tab switching for the "About" section, toggle the mobile menu, and submit form data to Google Sheets.
 
 CSS Code (style.css):
 
-CSS rules define the styling of various HTML elements.
+1. CSS rules define the styling of various HTML elements.
 
-The page has a dark-themed background with white text.
+2. The page has a dark-themed background with white text.
 
-Navigation links have a hover effect that underlines them with a blue color.
+3. Navigation links have a hover effect that underlines them with a blue color.
 
-The "About" section uses flexbox to arrange content in two columns on larger screens and single columns on smaller screens.
+4. The "About" section uses flexbox to arrange content in two columns on larger screens and single columns on smaller screens.
 
-Tab links and content in the "About" section are styled to toggle visibility when clicked.
+5. Tab links and content in the "About" section are styled to toggle visibility when clicked.
 
-Project cards in the "Projects" section have a grid layout and a hover effect that slightly transforms them.
+6. Project cards in the "Projects" section have a grid layout and a hover effect that slightly transforms them.
 
-The contact section displays contact information and a form, and social icons have a hover effect.
+7. The contact section displays contact information and a form, and social icons have a hover effect.
 
-Media queries are used to adjust the layout and styling for smaller screens, including mobile devices.
+8. Media queries are used to adjust the layout and styling for smaller screens, including mobile devices.
 
 In summary, this HTML and CSS code creates a responsive personal portfolio webpage with navigation, an about section with tabs, a list of projects, and a contact section with a form. The styling emphasizes a dark theme with blue accents, and the page layout adjusts for both desktop and mobile screens. Additionally, JavaScript is used for tab functionality and form submission.
 
