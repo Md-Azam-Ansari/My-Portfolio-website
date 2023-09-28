@@ -1,17 +1,20 @@
 # Portfolio-website
 The "Portfolio Website" is a dynamic and responsive web application designed to showcase my skills, accomplishments, and contact information. This website serves as a digital resume, providing visitors with insights into my background, skills, and projects.
 
-------------------------------------------------------CODE EXPLANATION-------------------------------------------------------------
+------------------------------------------------------CODE EXPLANATION---------------------------------------------------
 
-This code is an HTML and CSS-based webpage for a personal portfolio. Below is a summary of its key components and functionality:
+This code is an HTML and CSS-based webpage for a portfolio. Below is a summary of its key components and functionality:
 
 HTML Code (index.html):
 
-1. The HTML structure is defined with a <head> section containing metadata and external links to CSS and JavaScript files.
+This code is an HTML and CSS-based webpage for a  portfolio. Below is a summary of its key components and functionality:
+
+**HTML Code (index.html):**
+1. The HTML structure is defined with a `<head>` section containing metadata and external links to CSS and JavaScript files.
 
 2. The page is divided into several sections: "Portfolio," "About," "Projects," and "Contact."
 
-3. The navigation menu includes links to different sections of the page using anchor tags (<a>).
+3. The navigation menu includes links to different sections of the page using anchor tags (`<a>`).
 
 4. The "About" section provides information about the portfolio owner, their education, and skills. It uses tabs to toggle between "Skills" and "Education" content.
 
@@ -21,8 +24,7 @@ HTML Code (index.html):
 
 7. JavaScript functions are included to handle tab switching for the "About" section, toggle the mobile menu, and submit form data to Google Sheets.
 
-CSS Code (style.css):
-
+**CSS Code (style.css):**
 1. CSS rules define the styling of various HTML elements.
 
 2. The page has a dark-themed background with white text.
