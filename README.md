@@ -43,7 +43,7 @@ This code is an HTML and CSS-based webpage for a  portfolio. Below is a summary 
 
 In summary, this HTML and CSS code creates a responsive personal portfolio webpage with navigation, an about section with tabs, a list of projects, and a contact section with a form. The styling emphasizes a dark theme with blue accents, and the page layout adjusts for both desktop and mobile screens. Additionally, JavaScript is used for tab functionality and form submission.
 
----------------------------------------------------------------PROJECT DESCRIPTION------------------------------------------------------------
+----------------------------------PROJECT DESCRIPTION------------------------------------------------------------
 
 The "Portfolio Website" is a dynamic and responsive web application designed to showcase my skills, accomplishments, and contact information. This website serves as a digital resume, providing visitors with insights into my background, skills, and projects.
 
