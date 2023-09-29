@@ -1,7 +1,7 @@
 # Portfolio-website
 The "Portfolio Website" is a dynamic and responsive web application designed to showcase my skills, accomplishments, and contact information. This website serves as a digital resume, providing visitors with insights into my background, skills, and projects.
 
-------------------------------------------------------CODE EXPLANATION---------------------------------------------------
+------------------------------------------------------**CODE EXPLANATION**---------------------------------------------------
 
 This code is an HTML and CSS-based webpage for a portfolio. Below is a summary of its key components and functionality:
 
@@ -43,7 +43,21 @@ This code is an HTML and CSS-based webpage for a  portfolio. Below is a summary 
 
 In summary, this HTML and CSS code creates a responsive personal portfolio webpage with navigation, an about section with tabs, a list of projects, and a contact section with a form. The styling emphasizes a dark theme with blue accents, and the page layout adjusts for both desktop and mobile screens. Additionally, JavaScript is used for tab functionality and form submission.
 
-----------------------------------PROJECT DESCRIPTION------------------------------------------------------------
+----------------------------------**CONCEPT COVERED**------------------------------------------------------------
+
+- **HTML Structure**: Divisions and sections for organizing content.
+- **Navigation Menu**: Creating a responsive navigation menu with links and an icon for mobile screens.
+- **Styling**: Applying CSS styles for layout, colors, fonts, and effects.
+- **Responsive Design**: Using media queries to make the website mobile-friendly.
+- **FontAwesome Icons**: Integrating FontAwesome icons for visual elements.
+- **Form Handling**: Implementing a contact form and handling form submissions using JavaScript.
+- **Tabbed Content**: Organizing information into tabs with click functionality.
+- **Grid Layout**: Displaying projects in a grid format.
+- **Image Handling**: Displaying images and icons.
+- **Links**: Creating clickable links for navigation and project details.
+- **Background Images**: Setting background images for sections.
+
+----------------------------------**PROJECT DESCRIPTION**------------------------------------------------------------
 
 The "Portfolio Website" is a dynamic and responsive web application designed to showcase my skills, accomplishments, and contact information. This website serves as a digital resume, providing visitors with insights into my background, skills, and projects.
 
