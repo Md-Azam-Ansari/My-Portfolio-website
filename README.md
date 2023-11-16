@@ -1,6 +1,7 @@
 # Portfolio Website
+![Screenshot 2023-09-25 171552](https://github.com/Md-Azam-Ansari/My-Portfolio-website/assets/146065775/5afef550-e1f5-4423-a140-88abecb016cb)
 
-![Portfolio Website Screenshot](screeshot.png)
+
 
 The "Portfolio Website" is a dynamic and responsive web application designed to showcase my skills, accomplishments, and contact information. This website serves as a digital resume, providing visitors with insights into my background, skills, and projects.
 
